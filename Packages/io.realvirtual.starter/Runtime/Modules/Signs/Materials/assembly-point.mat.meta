@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cce6c60748e6c1346bef7e2cea574f05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 366612
+  packageName: realvirtual Digital Twin Starter 6.3
+  packageVersion: 6.3.6-10297
+  assetPath: Packages/io.realvirtual.starter/Runtime/Modules/Signs/Materials/assembly-point.mat
+  uploadId: 1012782

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7a43be74f3ac0284db16395c96be028a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 366612
+  packageName: realvirtual Digital Twin Starter 6.3
+  packageVersion: 6.3.6-10297
+  assetPath: Packages/io.realvirtual.starter/Tests/TestSmoothMotionReachability.cs
+  uploadId: 1012782

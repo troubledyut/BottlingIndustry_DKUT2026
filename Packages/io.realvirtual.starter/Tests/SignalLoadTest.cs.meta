@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 45ec888f74f1bd44e810c618a6ba760e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 366612
+  packageName: realvirtual Digital Twin Starter 6.3
+  packageVersion: 6.3.6-10297
+  assetPath: Packages/io.realvirtual.starter/Tests/SignalLoadTest.cs
+  uploadId: 1012782

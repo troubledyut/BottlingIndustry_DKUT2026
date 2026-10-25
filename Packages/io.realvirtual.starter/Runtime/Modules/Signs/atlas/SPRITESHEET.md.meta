@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e7605119155b0a4bbeb2055967c6b33
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 366612
+  packageName: realvirtual Digital Twin Starter 6.3
+  packageVersion: 6.3.6-10297
+  assetPath: Packages/io.realvirtual.starter/Runtime/Modules/Signs/atlas/SPRITESHEET.md
+  uploadId: 1012782

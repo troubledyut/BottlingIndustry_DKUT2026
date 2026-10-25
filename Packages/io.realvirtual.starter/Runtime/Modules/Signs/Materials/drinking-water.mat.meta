@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db656808f3977cc48a9f7270fe1265c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 366612
+  packageName: realvirtual Digital Twin Starter 6.3
+  packageVersion: 6.3.6-10297
+  assetPath: Packages/io.realvirtual.starter/Runtime/Modules/Signs/Materials/drinking-water.mat
+  uploadId: 1012782

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 77d4a2f88aa380f43b677349f7177393
+AssetOrigin:
+  serializedVersion: 1
+  productId: 366612
+  packageName: realvirtual Digital Twin Starter 6.3
+  packageVersion: 6.3.6-10297
+  assetPath: Packages/io.realvirtual.starter/Tests/FeatureTests/DriveTests/TestDriveRigidbody.cs
+  uploadId: 1012782
